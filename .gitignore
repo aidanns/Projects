@@ -37,3 +37,7 @@ nosetests.xml
 # Komodo
 .komodotools/
 *.komodoproject
+
+# Sublime Text
+*.sublime-workspace
+*.sublime-project
